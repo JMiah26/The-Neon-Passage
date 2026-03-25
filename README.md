@@ -36,7 +36,7 @@ For this project, I worked on:
 - Unreal Engine
 - Unity
 - Autodesk Maya
-- Photopea
+- Photoshop
 - Substance Painter
 
 ## What I Learned
